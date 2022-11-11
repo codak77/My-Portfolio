@@ -17,10 +17,10 @@ export default class Main extends Component {
         <Header />
         <Greeting />
         <Skills />
-        <WorkExperience />
+        {/* <WorkExperience /> */}
         <Projects />
         <Certifications />
-        <Blogs />
+        {/* <Blogs /> */}
         <Profile />
         <Footer />
         <Top />

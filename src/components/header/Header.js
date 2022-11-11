@@ -21,11 +21,12 @@ function Header() {
           <li>
             <a href="#skills">Skills</a>
           </li>
-          { exp === true &&
+          {/* { exp === true && 
             <li>
               <a href="#experience">Work Experiences</a>
             </li>
           }
+          */}
           <li>
             <a href="#opensource">Projects</a>
           </li>
@@ -38,9 +39,9 @@ function Header() {
           <li>
             <a href="#certs">Certfications</a>
           </li>
-          <li>
+          {/*<li>
             <a href="#blogs">Blogs</a>
-          </li>
+          </li>*/}
           {/*<li>
             <a href="#talks">Talks</a>
           </li>*/}

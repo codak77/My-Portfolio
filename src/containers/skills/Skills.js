@@ -7,14 +7,17 @@ import { Fade } from "react-reveal";
 export default function Skills() {
   return (
     <div className="main" id="skills">
-      <div className="skills-main-div">
-        <Fade left duration={1000}>
-          <div className="skills-image-div">
+      {/* <div className="skills-main-div"> */}
+         <Fade left duration={1000}> 
+         <h1 className="project-title">My Skills</h1>
+         <br></br>
+         <br></br>
+          {/* <div className="skills-image-div"> 
             <img
               alt="Bharat Working"
               src={require("../../assets/images/developerActivity.svg")}
             ></img>
-          </div>
+          </div>*/}
         </Fade>
         <Fade right duration={1000}>
           <div className="skills-text-div">
@@ -29,8 +32,8 @@ export default function Skills() {
               })}
             </div>
           </div>
-        </Fade>
+        </Fade> 
       </div>
-    </div>
+    // </div>
   );
 }
