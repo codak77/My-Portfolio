@@ -165,13 +165,6 @@ const skillsSection = {
       },
     },
     {
-      skillName: "Ansible",
-      classname: "logos:ansible",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
       skillName: "Docker",
       classname: "logos:docker-icon",
       style: {
@@ -186,6 +179,13 @@ const skillsSection = {
       },
     },
     {
+      skillName: "Ansible",
+      classname: "logos:ansible",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
       skillName: "Terraform",
       classname: "logos:terraform-icon",
       style: {
@@ -193,15 +193,8 @@ const skillsSection = {
       },
     },
     {
-      skillName: "selenium",
+      skillName: "Selenium",
       classname: "logos:selenium",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
-      skillName: "AWS",
-      classname: "logos:aws",
       style: {
         backgroundColor: "transparent",
       },
@@ -209,6 +202,13 @@ const skillsSection = {
     {
       skillName: "Azure",
       classname: "logos:microsoft-azure",
+      style: {
+        backgroundColor: "transparent",
+      },
+    },
+    {
+      skillName: "AWS",
+      classname: "logos:aws",
       style: {
         backgroundColor: "transparent",
       },
