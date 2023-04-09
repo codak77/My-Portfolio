@@ -8,18 +8,18 @@ const greeting = {
   username: "",
   title: "Hi all, I'm Sean",
   subTitle: emoji(
-    "Backend Engineer 👨‍💻 | Devops Practioner 👷 | AI Enthusiast "
+    "Cloud/Devops Engineer | Software Engineer | AI Enthusiast "
   ),
   resumeLink:
-    "",
+    "https://drive.google.com/file/d/1cpU1mOwzZf5kXn_kgktVj2EKH03Vejgt/view",
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
   github: "https://github.com/codak77",
-  linkedin: "https://www.linkedin.com/in/sean-stevens-811495221/",
-  gmail: "seanchi77@gmail.com",
+  linkedin: "https://www.linkedin.com/in/sean-stevens-me/",
+  gmail: "hello@sean-stevens.tech",
   facebook: "",
   twitter: "",
 };
@@ -265,40 +265,40 @@ const openSource = {
 const certifications = {
   certifications: [
     {
-      title: "Selenium",
-      subtitle: "- Vskills",
-      logo_path: "vskills-logo.png",
+      title: "FinOps Certified Practioner",
+      subtitle: "- The Linux Foundation",
+      logo_path: "finops.png",
       certificate_link:
-        "",
-      alt_name: "Vskills",
-      color_code: "#F6EAEA",
+        "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/e1f3b241-a7af-46b5-b0bd-5b5e75bf905d-enyinnia-sean-chinedu-59d81a3d-6f0b-4753-ab58-320816c1fa0d-certificate.pdf",
+      alt_name: "Linux Foundation",
+      color_code: "#FFBF00",
     },
     {
-      title: "Azure C-100",
-      subtitle: "- Microsoft",
-      logo_path: "seetest-logo.png",
+      title: "Full Stack Web Developer",
+      subtitle: "- Zuri Training",
+      logo_path: "zuri.png",
       certificate_link:
-        "",
-      alt_name: "Experitest",
-      color_code: "#F0FFDD",
+        "https://drive.google.com/file/d/1vigZcZLBjoBzjV9CKLES0aKEcUlgLdtV/view",
+      alt_name: "Zuri",
+      color_code: "#008080",
     },
     {
-      title: "Python",
-      subtitle: "- NIIT",
-      logo_path: "pierian-data-logo.png",
+      title: "DevOps Engineer",
+      subtitle: "- HNG Internship",
+      logo_path: "hng.png",
       certificate_link:
-        "",
-      alt_name: "Pierian-Data",
-      color_code: "#FEF6E6",
+        "https://drive.google.com/file/d/1c1vIFekoOVpSxuuQfroxzBYUJcber05_/view",
+      alt_name: "HNG",
+      color_code: "#FFFFFF",
     },
     {
-      title: "Javascript",
-      subtitle: "- NIIT",
-      logo_path: "rahulshettyacademy-logo.png",
+      title: "Cloud DevOps Engineer",
+      subtitle: "- Udacity Nanodegree",
+      logo_path: "alx.png",
       certificate_link:
-        "",
-      alt_name: "RahulShettyAcademy",
-      color_code: "#FDE9EA",
+        "https://drive.google.com/file/d/1iFgSyagtarHixn7j0aJnQsYrWeHOZnfS/view",
+      alt_name: "ALX",
+      color_code: "#5DADE2",
     },
     // {
     //   title: "Data Science",
@@ -365,7 +365,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+234 901 4610 880",
-  email_address: "seanchi77@gmail.com",
+  email_address: "hello@sean-stevens.tech",
 };
 
 export {
